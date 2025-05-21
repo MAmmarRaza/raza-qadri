@@ -37,6 +37,14 @@ This repository was created for testing and demonstration purposes. It contains 
    npm start
    ```
 
+## Allama Iqbal Poetry
+
+> Khudi ko kar buland itna ke har taqdeer se pehle  
+> Khuda bande se khud poochhe, bata teri raza kya hai
+
+> Sitaaron se aage jahan aur bhi hain  
+> Abhi ishq ke imtihan aur bhi hain
+
 ## License
 
 This project is licensed under the MIT License.
