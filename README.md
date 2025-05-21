@@ -1,26 +1,44 @@
-# Raza Qadri Repository
+# Muhammad Ammar Raza
 
-This repository was created for testing and demonstration purposes. It contains various files and configurations related to the project.
+Welcome to my GitHub repository! I am a passionate and results-driven software engineer with expertise in full-stack development, cloud computing, and DevOps. I thrive on solving complex problems and building scalable, efficient solutions.
 
-## Structure
+---
 
-- **back-oztechwork/**: Contains the backend code for the project.
-  - `app.js`: Main application file.
-  - `config/`: Configuration files.
-  - `controllers/`: Controllers for handling requests.
-  - `helpers/`: Helper functions.
-  - `loaders/`: Loaders for initializing services.
-  - `middlewares/`: Middleware functions.
-  - `models/`: Database models.
-  - `routes/`: API routes.
-  - `services/`: Service layer for business logic.
-  - `validators/`: Validation logic for requests.
+## About Me
 
-- **CRUD_RTK/**: Contains files related to CRUD operations using Redux Toolkit.
-- **public/**: Public assets for the frontend.
-- **src/**: Source code for the frontend application.
+- **Experience**: Over 5 years of experience in software development, specializing in backend systems, cloud infrastructure, and modern frontend frameworks.
+- **Education**: Bachelor's degree in Computer Science.
+- **Passion**: I am deeply passionate about learning new technologies, contributing to open-source projects, and mentoring aspiring developers.
 
-## How to Use
+---
+
+## Key Skills
+
+- **Programming Languages**: JavaScript, Python, TypeScript, and more.
+- **Frameworks & Libraries**: React, Redux Toolkit, Node.js, Express.js.
+- **Cloud & DevOps**: AWS (EC2, S3, Lambda), Docker, Kubernetes, CI/CD pipelines.
+- **Databases**: MongoDB, PostgreSQL, MySQL.
+- **Tools**: Git, Webpack, Jenkins, Firebase.
+
+---
+
+## Notable Projects
+
+### 1. **EC2 Start/Stop Automation**
+- Automated the start/stop process for AWS EC2 instances, reducing cloud costs by 30%.
+- Implemented using Node.js, AWS SDK, and Express.js.
+
+### 2. **Real-Time Notification System**
+- Built a scalable notification system using WebSockets and Firebase.
+- Integrated with a React frontend for seamless user experience.
+
+### 3. **CRUD Application with Redux Toolkit**
+- Developed a full-stack CRUD application with React and Redux Toolkit.
+- Backend powered by Node.js and MongoDB.
+
+---
+
+## How to Use This Repository
 
 1. Clone the repository:
    ```bash
@@ -37,6 +55,8 @@ This repository was created for testing and demonstration purposes. It contains 
    npm start
    ```
 
+---
+
 ## Allama Iqbal Poetry
 
 > Khudi ko kar buland itna ke har taqdeer se pehle  
@@ -44,6 +64,16 @@ This repository was created for testing and demonstration purposes. It contains 
 
 > Sitaaron se aage jahan aur bhi hain  
 > Abhi ishq ke imtihan aur bhi hain
+
+---
+
+## Contact Me
+
+- **Email**: ammar.raza@example.com
+- **LinkedIn**: [linkedin.com/in/ammar-raza](https://linkedin.com/in/ammar-raza)
+- **Portfolio**: [ammar-raza.dev](https://ammar-raza.dev)
+
+---
 
 ## License
 
